@@ -1,0 +1,2 @@
+himage stands for "happy image library", a small library for image processing. Contains an implementation of the old-school Canny edge detector.
+
